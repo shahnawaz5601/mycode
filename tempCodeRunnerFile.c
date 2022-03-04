@@ -1,1 +1,1 @@
-long c
+ printf("\n");
